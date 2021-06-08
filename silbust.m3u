@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1, TELEFUTURO
+https://copaco.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=0e3533d82bff5556baba01b2aea4c3d138db66dcdda4ca564445da8ade6335c1&exp=1623177730
+
+#EXTINF:-1, TRECE
+https://stream.rpc.com.py/live/trece.m3u8
+
+#EXTINF:-1, SNT
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMjY2NjYyLCJzZXNzaW9uIjoiMTgxLjk0LjIyNS4yNiIsIndoaXRlbGlzdCI6WyIxODEuOTQuMjI1LjI2Il19LCJzaWduYXR1cmUiOiJlZDE4YTU1ODJlZjcxNzYxYmJhZDBiNmE4YmMwYjM2YjZiZWI5OWRmIn0=
+
+#EXTINF:-1, UNICANAL
+http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:-1, NPY
+https://copaco.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?k=18d3fe8401a2f852ebd2d0b0fd2f709bfc26e01e88c34e8e8282f4ff4dc20f5f&exp=1623180504
+
+#EXTINF:-1, ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
